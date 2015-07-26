@@ -69,4 +69,4 @@ a R script that does the following.
 ### 5.2.Create an independent tidy dataset with the above conditions
 ###     by using dplyr package
    
-    5.3. Use write.table() command to output the tidy data   
+### 5.3. Use write.table() command to output the tidy data   
